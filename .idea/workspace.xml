@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfaecca9-28f3-4c02-a82a-f07ccf948639" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVDT6zUjxPSn0u7aTKcgH2hCO0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CheckingAccountTest">
+    <configuration name="CheckingAccountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CheckingAccountTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckingAccountTest.deposit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CheckingAccountTest.deposit&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CheckingAccountTest" />
+        <item itemvalue="Gradle.CheckingAccountTest.deposit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfaecca9-28f3-4c02-a82a-f07ccf948639" name="Default Changelist" comment="" />
+      <created>1579225872136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579225872136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1868" height="199" key="GridCell.Tab.0.bottom" timestamp="1579226960219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579226960219" />
+    <state width="1868" height="199" key="GridCell.Tab.0.center" timestamp="1579226960217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="199" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579226960217" />
+    <state width="1868" height="199" key="GridCell.Tab.0.left" timestamp="1579226960216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="199" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579226960216" />
+    <state width="1868" height="199" key="GridCell.Tab.0.right" timestamp="1579226960218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="199" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579226960218" />
+    <state width="1868" height="361" key="GridCell.Tab.1.bottom" timestamp="1579226951642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579226951642" />
+    <state width="1868" height="361" key="GridCell.Tab.1.center" timestamp="1579226951641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579226951641" />
+    <state width="1868" height="361" key="GridCell.Tab.1.left" timestamp="1579226951640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579226951640" />
+    <state width="1868" height="361" key="GridCell.Tab.1.right" timestamp="1579226951641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579226951641" />
+    <state x="575" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579226332302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="383" y="89" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1579225968399" />
+    <state x="575" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579226332302" />
+  </component>
+</project>
